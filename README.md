@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuvraj00007/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/yuvraj00007/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/yuvraj00007/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/yuvraj00007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuvraj00007/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/yuvraj00007/Leetcode/tree/master/0041-first-missing-positive) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/yuvraj00007/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvraj00007/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
