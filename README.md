@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/yuvraj00007/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/yuvraj00007/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/yuvraj00007/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yuvraj00007/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/yuvraj00007/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yuvraj00007/Leetcode/tree/master/0125-valid-palindrome) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/yuvraj00007/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
 |  |
 | ------- |
