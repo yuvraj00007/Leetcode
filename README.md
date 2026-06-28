@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/yuvraj00007/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/yuvraj00007/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/yuvraj00007/Leetcode/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/yuvraj00007/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/yuvraj00007/Leetcode/tree/master/0645-set-mismatch) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/yuvraj00007/Leetcode/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
