@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/yuvraj00007/Leetcode/tree/master/0060-permutation-sequence) |
 | [0371-sum-of-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1512-number-of-good-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/2235-add-two-integers) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/yuvraj00007/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/yuvraj00007/Leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
