@@ -3,8 +3,8 @@ class Solution:
         minimum=min(nums)
         maximum=max(nums)
 
-        while minimum:
-            temp=minimum
-            minimum=maximum % minimum
-            maximum=temp
-        return maximum
+        def gcd(a,b):
+            if b==0:
+                return a
+            return gcd(b,a%b)
+        return gcd(minimum,maximum)
