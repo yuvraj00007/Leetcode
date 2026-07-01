@@ -1,11 +1,11 @@
 class Solution:
     def canMeasureWater(self, x: int, y: int, target: int) -> bool:
         def gcd(a,b):
-            while b:
-                temp=b
-                b=a%b
-                a=temp
-            return a
+            if b==0:
+                return a
+            return gcd(b,a%b)
+                
+            
         z=target
         if x+y<z:
             return False
