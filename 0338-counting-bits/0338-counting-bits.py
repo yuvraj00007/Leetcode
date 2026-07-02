@@ -1,14 +1,10 @@
+from typing import List
+
 class Solution:
     def countBits(self, n: int) -> List[int]:
-        ans=[]
-        for i in range(n+1):
-            t=i
-            app=0
-            while t:
-                if t%2:
-                    app+=1
-                t//=2
-            ans.append(app)
-        return ans
-            
+        ans = [0] * (n + 1)
 
+        for i in range(1, n + 1):
+            ans[i] = ans[i >> 1] + (i & 1)
+
+        return ans
