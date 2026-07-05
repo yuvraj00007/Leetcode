@@ -1,15 +1,10 @@
 class Solution:
     def isMiddleElementUnique(self, nums: list[int]) -> bool:
-        n=len(nums)
-        m=n//2 
-        if n==1:
-            return True
-        x=nums[m]
-        nums.remove(x)
-        s=set(nums)
+        mid = nums[len(nums) // 2]
+        cnt = 0
 
-        if x in s:
-            return False
-        
-        return True
-            
+        for num in nums:
+            if num == mid:
+                cnt += 1
+
+        return cnt == 1
