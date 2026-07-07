@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2235-add-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/2235-add-two-integers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/yuvraj00007/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuvraj00007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yuvraj00007/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
 | ------- |
