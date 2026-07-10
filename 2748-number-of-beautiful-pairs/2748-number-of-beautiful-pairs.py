@@ -6,8 +6,10 @@ class Solution:
             return gcd(b,a%b)
         ans=0
         for i in range(len(nums)-1):
-            t=str(nums[i])
-            f=int(t[0])
+            t=nums[i]
+            while t>9:
+                t=t//10
+            f=t
             
             for j in range(i+1,len(nums)):
                 s=nums[j]%10
