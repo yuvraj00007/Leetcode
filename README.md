@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/yuvraj00007/Leetcode/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/yuvraj00007/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/yuvraj00007/Leetcode/tree/master/0060-permutation-sequence) |
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/yuvraj00007/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvraj00007/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -274,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
+| [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
