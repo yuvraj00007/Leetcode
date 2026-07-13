@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/yuvraj00007/Leetcode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/yuvraj00007/Leetcode/tree/master/1952-three-divisors) |
 ## Binary Search Tree
 |  |
