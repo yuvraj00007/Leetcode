@@ -1,24 +1,33 @@
 class Solution:
     def diffWaysToCompute(self, expression: str) -> List[int]:
-        ans=[]
+        memo={}
 
-        for i in range(len(expression)):
+        def solve(expression):
 
-            if expression[i] in "*+-":
+            if expression in memo:
+                return memo[expression]
+            ans=[]
 
-                left=self.diffWaysToCompute(expression[:i])
-                right=self.diffWaysToCompute(expression[i+1:])
+            for i in range(len(expression)):
 
-                for l in  left :
-                    for r in right:
+                if expression[i] in "*+-":
 
-                        if expression[i]=="*":
-                            ans.append(l*r)
-                        if expression[i]=="+":
-                            ans.append(l+r)
-                        if expression[i]=="-":
-                            ans.append(l-r)
-        if not ans:
-            ans.append(int(expression))
+                    left=solve(expression[:i])
+                    right=solve(expression[i+1:])
+
+                    for l in  left :
+                        for r in right:
+
+                            if expression[i]=="*":
+                                ans.append(l*r)
+                            if expression[i]=="+":
+                                ans.append(l+r)
+                            if expression[i]=="-":
+                                ans.append(l-r)
+            if not ans:
+                ans.append(int(expression))
+
+            memo[expression]=ans
         
-        return ans
+            return ans
+        return solve(expression)
