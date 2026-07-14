@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/yuvraj00007/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/yuvraj00007/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/yuvraj00007/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
