@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/yuvraj00007/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/yuvraj00007/Leetcode/tree/master/0645-set-mismatch) |
 | [1089-duplicate-zeros](https://github.com/yuvraj00007/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/yuvraj00007/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1331-rank-transform-of-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvraj00007/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/yuvraj00007/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/yuvraj00007/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvraj00007/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yuvraj00007/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/yuvraj00007/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
