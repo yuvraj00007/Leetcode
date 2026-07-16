@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/yuvraj00007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0504-base-7](https://github.com/yuvraj00007/Leetcode/tree/master/0504-base-7) |
 | [0647-palindromic-substrings](https://github.com/yuvraj00007/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1108-defanging-an-ip-address](https://github.com/yuvraj00007/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0504-base-7](https://github.com/yuvraj00007/Leetcode/tree/master/0504-base-7) |
 | [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yuvraj00007/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/1512-number-of-good-pairs) |
