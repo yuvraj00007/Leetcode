@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yuvraj00007/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/yuvraj00007/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/yuvraj00007/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1089-duplicate-zeros](https://github.com/yuvraj00007/Leetcode/tree/master/1089-duplicate-zeros) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvraj00007/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvraj00007/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuvraj00007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yuvraj00007/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/yuvraj00007/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/yuvraj00007/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/yuvraj00007/Leetcode/tree/master/3908-valid-digit-number) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/yuvraj00007/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2748-number-of-beautiful-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuvraj00007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
