@@ -13,6 +13,6 @@ class Solution:
             cmax=max(cmax*num , cmin*num,num)
             cmin=min(tmp*num , cmin*num,num)
 
-            res=max(res,cmax)
+            res=max(res,cmax,cmin)
         
         return res
