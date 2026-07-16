@@ -11,7 +11,7 @@ class Solution:
 
             x, y = coordinates[i]
 
-            if (y - y1) * dx != (x - x1) * dy:
+            if (y - y2) * dx != (x - x2) * dy:
                 return False
 
         return True
