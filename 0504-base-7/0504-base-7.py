@@ -3,16 +3,13 @@ class Solution:
         if num == 0:
             return "0"
 
-        res = ""
-        pnum = abs(num)
+        sign = "-" if num < 0 else ""
+        num = abs(num)
 
-        while pnum > 0:
-            r = pnum % 7
-            pnum //= 7
+        ans = []
 
-            res = str(r) + res   # prepend instead of appending
+        while num:
+            ans.append(str(num % 7))
+            num //= 7
 
-        if num < 0:
-            return "-" + res
-        else:
-            return res
+        return sign + "".join(ans[::-1])
