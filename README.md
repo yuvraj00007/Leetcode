@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/yuvraj00007/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yuvraj00007/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/yuvraj00007/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yuvraj00007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yuvraj00007/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/yuvraj00007/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/yuvraj00007/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/yuvraj00007/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/yuvraj00007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvraj00007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/yuvraj00007/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yuvraj00007/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yuvraj00007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yuvraj00007/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/yuvraj00007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/yuvraj00007/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/yuvraj00007/Leetcode/tree/master/0645-set-mismatch) |
