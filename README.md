@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/yuvraj00007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yuvraj00007/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/yuvraj00007/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/yuvraj00007/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/yuvraj00007/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/yuvraj00007/Leetcode/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/yuvraj00007/Leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yuvraj00007/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
