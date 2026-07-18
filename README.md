@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvraj00007/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2103-rings-and-rods](https://github.com/yuvraj00007/Leetcode/tree/master/2103-rings-and-rods) |
 | [2748-number-of-beautiful-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/yuvraj00007/Leetcode/tree/master/1544-make-the-string-great) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvraj00007/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2103-rings-and-rods](https://github.com/yuvraj00007/Leetcode/tree/master/2103-rings-and-rods) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yuvraj00007/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2678-number-of-senior-citizens](https://github.com/yuvraj00007/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3894-traffic-signal-color](https://github.com/yuvraj00007/Leetcode/tree/master/3894-traffic-signal-color) |
