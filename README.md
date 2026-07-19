@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/yuvraj00007/Leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/yuvraj00007/Leetcode/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/yuvraj00007/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [1089-duplicate-zeros](https://github.com/yuvraj00007/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yuvraj00007/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1331-rank-transform-of-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/yuvraj00007/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/yuvraj00007/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/yuvraj00007/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 |  |
