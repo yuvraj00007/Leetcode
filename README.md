@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/yuvraj00007/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/yuvraj00007/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/yuvraj00007/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/yuvraj00007/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/yuvraj00007/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/yuvraj00007/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/yuvraj00007/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/yuvraj00007/Leetcode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/yuvraj00007/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/yuvraj00007/Leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
