@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0705-design-hashset](https://github.com/yuvraj00007/Leetcode/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/yuvraj00007/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/yuvraj00007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1089-duplicate-zeros](https://github.com/yuvraj00007/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yuvraj00007/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1331-rank-transform-of-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/yuvraj00007/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/yuvraj00007/Leetcode/tree/master/0705-design-hashset) |
+| [0804-unique-morse-code-words](https://github.com/yuvraj00007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1331-rank-transform-of-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvraj00007/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/yuvraj00007/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0504-base-7](https://github.com/yuvraj00007/Leetcode/tree/master/0504-base-7) |
 | [0647-palindromic-substrings](https://github.com/yuvraj00007/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0804-unique-morse-code-words](https://github.com/yuvraj00007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/yuvraj00007/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
