@@ -1,8 +1,19 @@
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
-        nums = sorted(set(nums))
+        first = second = third = float("-inf")
 
-        if len(nums) < 3:
-            return nums[-1]
+        for num in nums:
+            if num in (first, second, third):
+                continue
+        
+            if num > first:
+                third = second
+                second = first
+                first = num
+            elif num > second:
+                third = second
+                second = num
+            elif num > third:
+                third = num
 
-        return nums[-3]
+        return first if third == float("-inf") else third
