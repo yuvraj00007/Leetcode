@@ -12,8 +12,7 @@ class Solution:
             if maxHeap:
                 b=-heapq.heappop(maxHeap)
             else:
-                heapq.heappush(maxHeap,a)
-                return maxHeap[0]
+                return a
             
 
             if a==b:
