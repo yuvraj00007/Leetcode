@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/yuvraj00007/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/yuvraj00007/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvraj00007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/yuvraj00007/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvraj00007/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/yuvraj00007/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/yuvraj00007/Leetcode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvraj00007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/yuvraj00007/Leetcode/tree/master/1544-make-the-string-great) |
 ## Tree
 |  |
@@ -416,4 +418,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yuvraj00007/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvraj00007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
