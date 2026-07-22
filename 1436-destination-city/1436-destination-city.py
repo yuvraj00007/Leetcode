@@ -6,5 +6,5 @@ class Solution:
             hm[a]=b
         
         for x in hm.values():
-            if x not in hm:
+            if x not in hm.keys():
                 return x
