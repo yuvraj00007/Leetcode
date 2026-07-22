@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvraj00007/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yuvraj00007/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/yuvraj00007/Leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/yuvraj00007/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvraj00007/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/yuvraj00007/Leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2103-rings-and-rods](https://github.com/yuvraj00007/Leetcode/tree/master/2103-rings-and-rods) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yuvraj00007/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/yuvraj00007/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1436-destination-city](https://github.com/yuvraj00007/Leetcode/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/yuvraj00007/Leetcode/tree/master/1544-make-the-string-great) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvraj00007/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/yuvraj00007/Leetcode/tree/master/2103-rings-and-rods) |
