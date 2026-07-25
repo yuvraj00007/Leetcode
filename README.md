@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2164-sort-even-and-odd-indices-independently](https://github.com/yuvraj00007/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yuvraj00007/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/yuvraj00007/Leetcode/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2235-add-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/2235-add-two-integers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/yuvraj00007/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuvraj00007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
