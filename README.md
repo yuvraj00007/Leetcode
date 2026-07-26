@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1534-count-good-triplets](https://github.com/yuvraj00007/Leetcode/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/yuvraj00007/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1598-crawler-log-folder](https://github.com/yuvraj00007/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuvraj00007/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/yuvraj00007/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvraj00007/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvraj00007/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/yuvraj00007/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/yuvraj00007/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/yuvraj00007/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuvraj00007/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Greedy
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvraj00007/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuvraj00007/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuvraj00007/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvraj00007/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/yuvraj00007/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yuvraj00007/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
