@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yuvraj00007/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/yuvraj00007/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/yuvraj00007/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/yuvraj00007/Leetcode/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/yuvraj00007/Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/yuvraj00007/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/yuvraj00007/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/yuvraj00007/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yuvraj00007/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/yuvraj00007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/yuvraj00007/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/yuvraj00007/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
 ## Bucket Sort
 |  |
@@ -455,4 +459,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
