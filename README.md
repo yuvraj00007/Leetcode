@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/yuvraj00007/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/yuvraj00007/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/yuvraj00007/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/yuvraj00007/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/yuvraj00007/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/yuvraj00007/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/yuvraj00007/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yuvraj00007/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yuvraj00007/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/yuvraj00007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuvraj00007/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yuvraj00007/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
 ## Bucket Sort
@@ -447,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/yuvraj00007/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvraj00007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
