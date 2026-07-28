@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0804-unique-morse-code-words](https://github.com/yuvraj00007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/yuvraj00007/Leetcode/tree/master/0819-most-common-word) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvraj00007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1020-number-of-enclaves](https://github.com/yuvraj00007/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/yuvraj00007/Leetcode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/yuvraj00007/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yuvraj00007/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/yuvraj00007/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [1020-number-of-enclaves](https://github.com/yuvraj00007/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/yuvraj00007/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/yuvraj00007/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/yuvraj00007/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/yuvraj00007/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/yuvraj00007/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/yuvraj00007/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/yuvraj00007/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -464,4 +468,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/yuvraj00007/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
