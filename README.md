@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0766-toeplitz-matrix](https://github.com/yuvraj00007/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/yuvraj00007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/yuvraj00007/Leetcode/tree/master/0819-most-common-word) |
+| [0941-valid-mountain-array](https://github.com/yuvraj00007/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvraj00007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1020-number-of-enclaves](https://github.com/yuvraj00007/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/yuvraj00007/Leetcode/tree/master/1046-last-stone-weight) |
