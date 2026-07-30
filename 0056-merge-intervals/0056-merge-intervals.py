@@ -5,8 +5,9 @@ class Solution:
         output=[intervals[0]]
 
         for start,end in intervals[1:]:
-            if start<=output[-1][1]:
-                output[-1][1]=max(output[-1][1],end)
+            lastEnd=output[-1][1]
+            if start<=lastEnd:
+                output[-1][1]=max(lastEnd,end)
             else:
                 output.append([start,end])
         
