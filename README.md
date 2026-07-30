@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2103-rings-and-rods](https://github.com/yuvraj00007/Leetcode/tree/master/2103-rings-and-rods) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yuvraj00007/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2678-number-of-senior-citizens](https://github.com/yuvraj00007/Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj00007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3794-reverse-string-prefix](https://github.com/yuvraj00007/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/yuvraj00007/Leetcode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/yuvraj00007/Leetcode/tree/master/3856-trim-trailing-vowels) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvraj00007/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yuvraj00007/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj00007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2235-add-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/2235-add-two-integers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/yuvraj00007/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj00007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yuvraj00007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
