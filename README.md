@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/yuvraj00007/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0504-base-7](https://github.com/yuvraj00007/Leetcode/tree/master/0504-base-7) |
+| [0556-next-greater-element-iii](https://github.com/yuvraj00007/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/yuvraj00007/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/yuvraj00007/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/yuvraj00007/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvraj00007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/yuvraj00007/Leetcode/tree/master/0125-valid-palindrome) |
+| [0556-next-greater-element-iii](https://github.com/yuvraj00007/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/yuvraj00007/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/yuvraj00007/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/yuvraj00007/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/yuvraj00007/Leetcode/tree/master/0504-base-7) |
+| [0556-next-greater-element-iii](https://github.com/yuvraj00007/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj00007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvraj00007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
