@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0819-most-common-word](https://github.com/yuvraj00007/Leetcode/tree/master/0819-most-common-word) |
 | [0941-valid-mountain-array](https://github.com/yuvraj00007/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvraj00007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/yuvraj00007/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yuvraj00007/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/yuvraj00007/Leetcode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/yuvraj00007/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/yuvraj00007/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0994-rotting-oranges](https://github.com/yuvraj00007/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yuvraj00007/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/yuvraj00007/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/yuvraj00007/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/yuvraj00007/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yuvraj00007/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/yuvraj00007/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yuvraj00007/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Bucket Sort
 |  |
