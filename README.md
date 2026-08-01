@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/yuvraj00007/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/yuvraj00007/Leetcode/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/yuvraj00007/Leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/yuvraj00007/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yuvraj00007/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/yuvraj00007/Leetcode/tree/master/0605-can-place-flowers) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/yuvraj00007/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/yuvraj00007/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/yuvraj00007/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/yuvraj00007/Leetcode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/yuvraj00007/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/yuvraj00007/Leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/yuvraj00007/Leetcode/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/yuvraj00007/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvraj00007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0060-permutation-sequence](https://github.com/yuvraj00007/Leetcode/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/yuvraj00007/Leetcode/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/yuvraj00007/Leetcode/tree/master/1791-find-center-of-star-graph) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yuvraj00007/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
