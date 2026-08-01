@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/yuvraj00007/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yuvraj00007/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/yuvraj00007/Leetcode/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/yuvraj00007/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/yuvraj00007/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yuvraj00007/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/yuvraj00007/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/yuvraj00007/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/yuvraj00007/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1052-grumpy-bookstore-owner](https://github.com/yuvraj00007/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yuvraj00007/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Number Theory
