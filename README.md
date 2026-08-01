@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yuvraj00007/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2678-number-of-senior-citizens](https://github.com/yuvraj00007/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj00007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3174-clear-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/yuvraj00007/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/yuvraj00007/Leetcode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/yuvraj00007/Leetcode/tree/master/3856-trim-trailing-vowels) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/yuvraj00007/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yuvraj00007/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/yuvraj00007/Leetcode/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/yuvraj00007/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/yuvraj00007/Leetcode/tree/master/3921-score-validator) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvraj00007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/yuvraj00007/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/yuvraj00007/Leetcode/tree/master/1598-crawler-log-folder) |
+| [3174-clear-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3174-clear-digits) |
 ## Tree
 |  |
 | ------- |
