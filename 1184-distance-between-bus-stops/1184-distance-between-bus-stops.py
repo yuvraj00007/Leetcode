@@ -1,10 +1,17 @@
 class Solution:
     def distanceBetweenBusStops(self, distance: List[int], start: int, destination: int) -> int:
+        new=[]
+        new=distance[:]+distance[:]
+        n=len(distance)
 
-        if start > destination:
-            start, destination = destination, start
+        d1,d2=0,0
+        if start>destination:
+            start,destination = destination , start
 
-        clockwise = sum(distance[start:destination])
-        total = sum(distance)
+        for i in range(start,destination):
+            d1+=distance[i]
 
-        return min(clockwise, total - clockwise)
+        for i in range(destination,start+n):
+            d2+=new[i]
+        
+        return min(d1,d2)
