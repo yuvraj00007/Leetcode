@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yuvraj00007/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/yuvraj00007/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/yuvraj00007/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1668-maximum-repeating-substring](https://github.com/yuvraj00007/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvraj00007/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/yuvraj00007/Leetcode/tree/master/2103-rings-and-rods) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yuvraj00007/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/yuvraj00007/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/yuvraj00007/Leetcode/tree/master/1406-stone-game-iii) |
+| [1668-maximum-repeating-substring](https://github.com/yuvraj00007/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/yuvraj00007/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/yuvraj00007/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
