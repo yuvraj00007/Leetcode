@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2974-minimum-number-game](https://github.com/yuvraj00007/Leetcode/tree/master/2974-minimum-number-game) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/yuvraj00007/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yuvraj00007/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/yuvraj00007/Leetcode/tree/master/3921-score-validator) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2748-number-of-beautiful-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/yuvraj00007/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yuvraj00007/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yuvraj00007/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/yuvraj00007/Leetcode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/yuvraj00007/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
