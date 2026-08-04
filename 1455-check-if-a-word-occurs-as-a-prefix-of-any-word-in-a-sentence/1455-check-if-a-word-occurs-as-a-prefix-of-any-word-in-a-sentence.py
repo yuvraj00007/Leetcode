@@ -15,7 +15,14 @@ class Solution:
             s += sentence[i]
             i += 1
 
-            if s.startswith(searchWord):
-                return index
+            if len(s) >= len(searchWord):
+                match = True
+                for j in range(len(searchWord)):
+                    if s[j] != searchWord[j]:
+                        match = False
+                        break
+
+                if match:
+                    return index
 
         return -1
