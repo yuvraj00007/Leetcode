@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/yuvraj00007/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/yuvraj00007/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/yuvraj00007/Leetcode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/yuvraj00007/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/yuvraj00007/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/yuvraj00007/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0113-path-sum-ii) |
 ## String
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/yuvraj00007/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yuvraj00007/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/yuvraj00007/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/yuvraj00007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/yuvraj00007/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/yuvraj00007/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/yuvraj00007/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/yuvraj00007/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/yuvraj00007/Leetcode/tree/master/0695-max-area-of-island) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yuvraj00007/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/yuvraj00007/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuvraj00007/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yuvraj00007/Leetcode/tree/master/0110-balanced-binary-tree) |
