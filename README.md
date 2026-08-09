@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/yuvraj00007/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/yuvraj00007/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvraj00007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/yuvraj00007/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/yuvraj00007/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/yuvraj00007/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0338-counting-bits](https://github.com/yuvraj00007/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvraj00007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/yuvraj00007/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/yuvraj00007/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvraj00007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/yuvraj00007/Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/yuvraj00007/Leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/yuvraj00007/Leetcode/tree/master/0504-base-7) |
