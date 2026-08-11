@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2678-number-of-senior-citizens](https://github.com/yuvraj00007/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2748-number-of-beautiful-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2974-minimum-number-game](https://github.com/yuvraj00007/Leetcode/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj00007/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/yuvraj00007/Leetcode/tree/master/3731-find-missing-elements) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yuvraj00007/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/yuvraj00007/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2748-number-of-beautiful-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj00007/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/yuvraj00007/Leetcode/tree/master/3731-find-missing-elements) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2164-sort-even-and-odd-indices-independently](https://github.com/yuvraj00007/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/yuvraj00007/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/yuvraj00007/Leetcode/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj00007/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/yuvraj00007/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
