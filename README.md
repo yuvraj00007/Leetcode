@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/yuvraj00007/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/yuvraj00007/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/yuvraj00007/Leetcode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/yuvraj00007/Leetcode/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/yuvraj00007/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/yuvraj00007/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/yuvraj00007/Leetcode/tree/master/0692-top-k-frequent-words) |
