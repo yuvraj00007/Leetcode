@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2395-find-subarrays-with-equal-sum](https://github.com/yuvraj00007/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2748-number-of-beautiful-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj00007/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvraj00007/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/yuvraj00007/Leetcode/tree/master/3731-find-missing-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yuvraj00007/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2678-number-of-senior-citizens](https://github.com/yuvraj00007/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj00007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvraj00007/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/yuvraj00007/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/yuvraj00007/Leetcode/tree/master/3798-largest-even-number) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1052-grumpy-bookstore-owner](https://github.com/yuvraj00007/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yuvraj00007/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvraj00007/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
 |  |
 | ------- |
