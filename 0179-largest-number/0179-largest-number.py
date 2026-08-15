@@ -1,18 +1,45 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
-        
-        
-        for i in range(len(nums)-1):
-            for j in range(i+1,len(nums)):
-                a=str(nums[i])
-                b=str(nums[j])
+        nums=[str(x) for x in nums]
 
-                if a+b<b+a:
-                    nums[i],nums[j]=nums[j],nums[i]
-        ans=""
-        for i in range(len(nums)):
-            ans+=str(nums[i])
+        def mergesort(arr):
+            if len(arr)<=1:
+                return arr
+
+            mid=len(arr)//2
+            left=mergesort(arr[:mid])
+            right=mergesort(arr[mid:])
+
+            return merge(left,right)
+
+
+        def merge(left,right):
+            res=[]
+            i=0
+            j=0
+            while i<len(left) and j<len(right):
+                if left[i] + right[j] > right[j] + left[i]:
+                    res.append(left[i])
+                    i += 1
+                else:
+                    res.append(right[j])
+                    j += 1
+                
+            while i < len(left):
+                res.append(left[i])
+                i += 1
+
+            while j < len(right):
+                res.append(right[j])
+                j += 1
+
+            return res
+
         
-        if ans[0]=="0":
+        nums=mergesort(nums)
+        
+        
+        if nums[0]=="0":
             return "0"
-        return ans
+        
+        return "".join(nums)
