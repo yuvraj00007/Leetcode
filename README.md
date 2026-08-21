@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvraj00007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/yuvraj00007/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/yuvraj00007/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/yuvraj00007/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/yuvraj00007/Leetcode/tree/master/0058-length-of-last-word) |
