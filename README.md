@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/yuvraj00007/Leetcode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/yuvraj00007/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yuvraj00007/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/yuvraj00007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvraj00007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/yuvraj00007/Leetcode/tree/master/0415-add-strings) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/yuvraj00007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/yuvraj00007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/yuvraj00007/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yuvraj00007/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/yuvraj00007/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/yuvraj00007/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/yuvraj00007/Leetcode/tree/master/0647-palindromic-substrings) |
