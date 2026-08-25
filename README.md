@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yuvraj00007/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yuvraj00007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yuvraj00007/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yuvraj00007/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvraj00007/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvraj00007/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/yuvraj00007/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yuvraj00007/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yuvraj00007/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yuvraj00007/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
