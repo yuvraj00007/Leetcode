@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/yuvraj00007/Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/yuvraj00007/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0260-single-number-iii](https://github.com/yuvraj00007/Leetcode/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/yuvraj00007/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/yuvraj00007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/yuvraj00007/Leetcode/tree/master/0414-third-maximum-number) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/yuvraj00007/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/yuvraj00007/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/yuvraj00007/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvraj00007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
