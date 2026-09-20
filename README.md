@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj00007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvraj00007/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/yuvraj00007/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/yuvraj00007/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/yuvraj00007/Leetcode/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/yuvraj00007/Leetcode/tree/master/3856-trim-trailing-vowels) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2390-removing-stars-from-a-string](https://github.com/yuvraj00007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/yuvraj00007/Leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/yuvraj00007/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/yuvraj00007/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/yuvraj00007/Leetcode/tree/master/3921-score-validator) |
