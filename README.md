@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/yuvraj00007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/yuvraj00007/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/yuvraj00007/Leetcode/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/yuvraj00007/Leetcode/tree/master/1436-destination-city) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/yuvraj00007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/yuvraj00007/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/yuvraj00007/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/yuvraj00007/Leetcode/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yuvraj00007/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/yuvraj00007/Leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/yuvraj00007/Leetcode/tree/master/1512-number-of-good-pairs) |
