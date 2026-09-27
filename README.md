@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/yuvraj00007/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/yuvraj00007/Leetcode/tree/master/1154-day-of-the-year) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/yuvraj00007/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/yuvraj00007/Leetcode/tree/master/1436-destination-city) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/yuvraj00007/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/yuvraj00007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvraj00007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/yuvraj00007/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/yuvraj00007/Leetcode/tree/master/1598-crawler-log-folder) |
@@ -634,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/yuvraj00007/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
