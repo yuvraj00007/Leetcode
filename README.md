@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0819-most-common-word](https://github.com/yuvraj00007/Leetcode/tree/master/0819-most-common-word) |
 | [0830-positions-of-large-groups](https://github.com/yuvraj00007/Leetcode/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/yuvraj00007/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/yuvraj00007/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/yuvraj00007/Leetcode/tree/master/1154-day-of-the-year) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/yuvraj00007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/yuvraj00007/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/yuvraj00007/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yuvraj00007/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvraj00007/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
