@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvraj00007/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/yuvraj00007/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/yuvraj00007/Leetcode/tree/master/0043-multiply-strings) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/yuvraj00007/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/yuvraj00007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/yuvraj00007/Leetcode/tree/master/0682-baseball-game) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yuvraj00007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
