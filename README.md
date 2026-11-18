@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/yuvraj00007/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/yuvraj00007/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/yuvraj00007/Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yuvraj00007/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvraj00007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvraj00007/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/yuvraj00007/Leetcode/tree/master/3174-clear-digits) |
